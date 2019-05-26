@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FatiLogin</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="forgot_password">Forgot Password? Click Here</string>
+    <string name="email_hint">joanshay@gmail.com</string>
+
+    <string name="facebook_app_id">595705024172706</string>
+    <string name="fb_login_protocol_scheme">fb595705024172706</string>
+
+
+</resources>
